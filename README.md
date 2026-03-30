@@ -16,6 +16,6 @@ Holasa a qui reunire mis proyectos para que les sea mas facil entrar a ellos
 
 1. **Clonar el repositorio:**
    ```bash
-   https://kevinreyes-garcia-rgb.github.io/Mis-Paginas-V6/
+   https://kevinreyes-garcia-rgb.github.io/Mis-Paginas-V7/
    
 >[**NOTA**] esta cuenta se borrara cuando termine mi escuela, ya que es cuenta escolar, todos estos proyectos podrian perderse o dejar de tener mantenimiento y actualisasiones pero creo en futuro pasare todo a una cuenta nueva. 
